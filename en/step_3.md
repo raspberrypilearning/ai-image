@@ -1,7 +1,21 @@
-## What next?
+## Styles and effects
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+As well as adding more information into your prompt, you can use the settings to offer more information to the AI about how you would like your finished image to look. 
 
-![ProjectName project](images/projectname-project.png)
+![Different content types - art and photo](images/content-type.png)
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+![A list of different image styles to select from](images/styles.png)
+
+![A list of different image effects to select from](images/effects.png)
+
+--- task ---
++ Experiment with different content types, styles and effects until you are happy with the image that the AI has generated.
+
+--- /task ---
+
+--- task ---
++ To save an image, click on it and then click on the 'Download' button on the top right.
+
+![A stylized image of a flamingo in a ball gown with a yellow arrow to a download button on the top right](images/final-image.png)
+
+--- /task ---

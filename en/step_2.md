@@ -12,7 +12,7 @@ A **prompt** is a way of describing what you would like from a generative AI.
 
 --- task ---
 
-+ In the box, type in a description of the image you want, for example:
++ In the box, type in a **prompt** which describes of the image you want, for example:
 
 `a bright pink flamingo wearing a dress`
 
