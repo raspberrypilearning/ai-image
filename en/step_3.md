@@ -2,9 +2,18 @@
 
 As well as adding more information into your prompt, you can use the settings to offer more information to the AI about how you would like your finished image to look. 
 
+### Content type
+Select whether the image style is an artwork or photograph
+
 ![Different content types - art and photo](images/content-type.png)
 
+### Styles
+Select the style of image you want. You can even upload an image and ask the AI to copy the style.
+
 ![A list of different image styles to select from](images/styles.png)
+
+### Effects
+Select any effects you want to apply to your image, for example you can make it look like part of a comic book, or like it was drawn with charcoal. 
 
 ![A list of different image effects to select from](images/effects.png)
 
