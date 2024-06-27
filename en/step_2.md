@@ -18,7 +18,7 @@ A **prompt** is a way of describing what you would like from a generative AI.
 
 + Press 'Generate' and see what the AI comes up with!
 
-![An AI generated image of a bright pink flamingo wearing a dress](images/flamingo1.jpg)
+![An AI generated image of a bright pink flamingo wearing a dress](images/flamingo1a.jpg)
 
 --- /task ---
 
@@ -30,6 +30,6 @@ A **prompt** is a way of describing what you would like from a generative AI.
 
 + Press 'Generate' again and the AI will generate some new images. 
 
-![An AI generated image of a flamingo wearing a ball gown](images/flamingo2.jpg)
+![An AI generated image of a flamingo wearing a ball gown](images/flamingo2a.jpg)
 
 --- /task ---
