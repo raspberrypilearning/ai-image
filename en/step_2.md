@@ -1,23 +1,35 @@
-## Step title
+## Write a prompt
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+A **prompt** is a way of describing what you would like from a generative AI. 
 
 --- task ---
 
-If working **online**, open the [starter project](https://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](https://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
++ Go to [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}
 
-You should see...
- 
-![starter project](images/starter_project.png)
++ Click "Sign in" on the top right and sign in with your Adobe ID.
 
 --- /task ---
 
 --- task ---
 
-Step content...
++ In the box, type in a description of the image you want, for example:
+
+`a bright pink flamingo wearing a dress`
+
++ Press 'Generate' and see what the AI comes up with!
+
+![An AI generated image of a bright pink flamingo wearing a dress](images/flamingo1.jpg)
 
 --- /task ---
 
---- save ---
+--- task ---
+
++ Now alter your prompt to make it slightly more specific, for example:
+
+`a full length shot of a bright pink flamingo wearing a ball gown. the background is a moonlit sky with a lake`
+
++ Press 'Generate' again and the AI will generate some new images. 
+
+![An AI generated image of a flamingo wearing a ball gown](images/flamingo2.jpg)
+
+--- /task ---
