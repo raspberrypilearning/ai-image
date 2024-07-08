@@ -1,4 +1,4 @@
-## Introduction
+## What you will make
 
 Type in a description for an image and watch as AI brings your creation to life.
 
