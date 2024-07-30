@@ -7,29 +7,29 @@
 </html>
 
 
-A **prompt** is a way of describing what you would like from a generative AI. 
+A **prompt** is a way of describing what you would like from a generative AI model. 
 
 --- task ---
 
-+ Go to [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}
++ Go to [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
 
-+ Click "Sign in" on the top right and sign in with your Adobe ID.
++ Click **Sign in** on the top right and sign in with your Adobe ID.
 
 --- /task ---
 
 --- task ---
 
-+ In the box, type in a **prompt** which describes of the image you want, for example:
++ In the box, type in a **prompt** that describes the image you want, for example:
 
-`a bright pink flamingo wearing a dress`
+`A bright pink flamingo wearing a dress`
 
 --- /task ---
 
 --- task ---
 
-+ Press 'Generate' and see what the AI comes up with!
++ Click **Generate** and see what the AI model comes up with!
 
-![An AI generated image of a bright pink flamingo wearing a dress](images/flamingo1a.jpg)
+![An AI-generated image of a bright pink flamingo wearing a dress.](images/flamingo1a.jpg)
 
 --- /task ---
 
@@ -37,14 +37,14 @@ A **prompt** is a way of describing what you would like from a generative AI.
 
 + Now alter your prompt to make it slightly more specific, for example:
 
-`a full length shot of a bright pink flamingo wearing a ball gown. the background is a moonlit sky with a lake`
+`A full length shot of a bright pink flamingo wearing a ball gown. The background is a moonlit sky with a lake`
 
 --- /task ---
 
 --- task ---
 
-+ Press 'Generate' again and the AI will generate some new images. 
++ Click **Generate** again and the AI model will generate some new images. 
 
-![An AI generated image of a flamingo wearing a ball gown](images/flamingo2a.jpg)
+![An AI-generated image of a flamingo wearing a ball gown.](images/flamingo2a.jpg)
 
 --- /task ---
