@@ -11,15 +11,15 @@ A **prompt** is a way of describing what you would like from a generative AI mod
 
 --- task ---
 
-+ Go to [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
+Go to [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
 
-+ Click **Sign in** on the top right and sign in with your Adobe ID.
+Click **Sign in** on the top right and sign in with your Adobe ID.
 
 --- /task ---
 
 --- task ---
 
-+ In the box, type in a **prompt** that describes the image you want, for example:
+In the box, type in a **prompt** that describes the image you want, for example:
 
 `A bright pink flamingo wearing a dress`
 
@@ -27,7 +27,7 @@ A **prompt** is a way of describing what you would like from a generative AI mod
 
 --- task ---
 
-+ Click **Generate** and see what the AI model comes up with!
+Click **Generate** and see what the AI model comes up with!
 
 ![An AI-generated image of a bright pink flamingo wearing a dress.](images/flamingo1a.jpg)
 
@@ -35,7 +35,7 @@ A **prompt** is a way of describing what you would like from a generative AI mod
 
 --- task ---
 
-+ Now alter your prompt to make it slightly more specific, for example:
+Now alter your prompt to make it slightly more specific, for example:
 
 `A full length shot of a bright pink flamingo wearing a ball gown. The background is a moonlit sky with a lake`
 
@@ -43,7 +43,7 @@ A **prompt** is a way of describing what you would like from a generative AI mod
 
 --- task ---
 
-+ Click **Generate** again and the AI model will generate some new images. 
+Click **Generate** again and the AI model will generate some new images. 
 
 ![An AI-generated image of a flamingo wearing a ball gown.](images/flamingo2a.jpg)
 
