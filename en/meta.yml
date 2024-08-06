@@ -8,5 +8,11 @@ last_tested: "2024-06-27"
 steps:
   - title: What you will make
   - title: Write a prompt
+    completion:
+    - engaged
   - title: Styles and effects
-  - title: What next?
+    completion:
+    - internal
+  - title: What you can do now?
+    completion:
+    - external
