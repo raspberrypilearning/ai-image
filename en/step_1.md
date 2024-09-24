@@ -13,5 +13,4 @@ title: No YouTube? Download the videos!
 
 You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/ai-image-go){:target="_blank"}. 
 
-
 --- /collapse ---
