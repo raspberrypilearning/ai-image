@@ -25,11 +25,13 @@ Select any effects you want to apply to your image. For example, you can make it
 ![A list of different image effects to select from](images/effects.png)
 
 --- task ---
+
 Experiment with different content types, styles, and effects until you are happy with the image that the AI model has generated.
 
 --- /task ---
 
 --- task ---
+
 Save your image. Click on it and then click on the **Download** button on the top right.
 
 ![A stylised image of a flamingo in a ball gown with a yellow arrow to a download button on the top right of the image,](images/final-image.png)
