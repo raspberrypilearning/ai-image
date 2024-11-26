@@ -1,22 +1,22 @@
-title: AI-generated images
+title: Зображення, створені ШІ
 hero_image: images/banner.png
-description: Create images with generative AI using Adobe Firefly
+description: Створи зображення за допомогою генеративного штучного інтелекту в Adobe Firefly
 version: 1
 listed: false
 copyedit: false
 last_tested: "2024-06-27"
 steps:
   - 
-    title: What you will make
+    title: Що ти зробиш
   - 
-    title: Write a prompt
+    title: Напиши запит
     completion:
       - engaged
   - 
-    title: Styles and effects
+    title: Стилі й ефекти
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Що ти тепер вмієш?
     completion:
       - external
