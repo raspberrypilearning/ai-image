@@ -1,0 +1,22 @@
+title: AI-generated images
+hero_image: images/banner.png
+description: Create images with generative AI using Adobe Firefly
+version: 1
+listed: false
+copyedit: false
+last_tested: "2024-06-27"
+steps:
+  - 
+    title: What you will make
+  - 
+    title: Write a prompt
+    completion:
+      - engaged
+  - 
+    title: Styles and effects
+    completion:
+      - internal
+  - 
+    title: What can you do now?
+    completion:
+      - external
