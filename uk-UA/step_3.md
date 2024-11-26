@@ -1,4 +1,4 @@
-## Styles and effects
+## Стилі й ефекти
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,36 +6,36 @@
   </div>
 </html>
 
-As well as adding more information into your prompt, you can use the settings to give the AI model more information about how you would like your finished image to look.
+Щоб надати моделі ШІ більше інформації про те, яким ти хочеш бачити фінальне зображення, можна не лише додавати більше деталей до запиту, але й використовувати налаштування.
 
-### Content type
+### Тип умісту
 
-Select whether the image style is an artwork or photograph.
+Вибери стиль зображення — картина чи фотографія.
 
-![Different content types - art and photo](images/content-type.png)
+![Різні типи вмісту — картини й фотографії](images/content-type.png)
 
-### Styles
+### Стилі
 
-Select the style of image you want. You can even upload an image and ask the AI model to copy the style.
+Вибери потрібний стиль зображення. Ти навіть можеш завантажити якесь зображення та попросити модель ШІ скопіювати його стиль.
 
-![A list of different image styles to select from](images/styles.png)
+![Список різних стилів зображення на вибір](images/styles.png)
 
-### Effects
+### Ефекти
 
-Select any effects you want to apply to your image. For example, you can make it look like part of a comic book, or like it was drawn with charcoal.
+Вибери ефекти, які ти хочеш застосувати до свого зображення. Наприклад, ти можеш зробити його схожим на комікс або намальованим чорнилом.
 
-![A list of different image effects to select from](images/effects.png)
+![Список різних ефектів зображення на вибір](images/effects.png)
 
 \--- task ---
 
-Experiment with different content types, styles, and effects until you are happy with the image that the AI model has generated.
+Експериментуй із різними типами вмісту, стилями та ефектами, доки модель ШІ не згенерує бажаний результат.
 
 \--- /task ---
 
 \--- task ---
 
-Save your image. Click on it and then click on the **Download** button on the top right.
+Збережи своє зображення. Натисни на нього, а потім на кнопку **Завантажити** у верхньому правому куті.
 
-![A stylised image of a flamingo in a ball gown with a yellow arrow to a download button on the top right of the image,](images/final-image.png)
+![Стилізоване зображення фламінго в бальній сукні з жовтою стрілкою у напрямку кнопки завантаження у верхньому правому куті зображення](images/final-image.png)
 
 \--- /task ---
