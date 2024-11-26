@@ -1,4 +1,4 @@
-## Write a prompt
+## Напиши запит
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,44 +6,44 @@
   </div>
 </html>
 
-A **prompt** is a way of describing what you would like from a generative AI model.
+**Запит** — це опис того, що ти хочеш отримати від генеративної моделі ШІ.
 
 \--- task ---
 
-Go to [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
+Перейди на [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
 
-Click **Sign in** on the top right and sign in with your Adobe ID.
+Натисни **Увійти** у верхньому правому куті та увійди за допомогою свого облікового запису Adobe ID.
 
 \--- /task ---
 
 \--- task ---
 
-In the box, type in a **prompt** that describes the image you want, for example:
+У полі введи **запит**, що описує потрібне тобі зображення, наприклад:
 
-`A bright pink flamingo wearing a dress`
-
-\--- /task ---
-
-\--- task ---
-
-Click **Generate** and see what the AI model comes up with!
-
-![An AI-generated image of a bright pink flamingo wearing a dress.](images/flamingo1a.jpg)
+`Яскраво-рожевий фламінго в сукні`
 
 \--- /task ---
 
 \--- task ---
 
-Now alter your prompt to make it slightly more specific, for example:
+Натисни **Створити** і поглянь, що згенерувала модель ШІ!
 
-`A full length shot of a bright pink flamingo wearing a ball gown. The background is a moonlit sky with a lake`
+![Створене штучним інтелектом зображення яскраво-рожевого фламінго в сукні.](images/flamingo1a.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-Click **Generate** again and the AI model will generate some new images.
+Тепер трохи зміни запит, щоб зробити його більш конкретним, наприклад:
 
-![An AI-generated image of a flamingo wearing a ball gown.](images/flamingo2a.jpg)
+`Зображення яскраво-рожевого фламінго у бальній сукні в повний зріст. На фоні місячне небо з озером`
+
+\--- /task ---
+
+\--- task ---
+
+Знову натисни **Створити**, і модель ШІ згенерує кілька нових зображень.
+
+![Створене штучним інтелектом зображення фламінго в бальній сукні.](images/flamingo2a.jpg)
 
 \--- /task ---
