@@ -1,15 +1,15 @@
-## What you will make
+## Що ти зробиш
 
-![Four different AI generated images of a frog wearing a tuxedo. The background is a pond with lily pads.](images/whatyouwillmake.png)
+![Чотири різні зображення жаби в смокінгу, створені штучним інтелектом. На задньому плані – ставок із лататтям.](images/whatyouwillmake.png)
 
-Type in a description for an image and watch as AI brings your creation to life.
+Введи опис бажаного зображення та дивись, як штучний інтелект (ШІ) оживляє твою ідею.
 
-This project uses [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}, which requires an Adobe ID. You must be 13 or older to register for an individual Adobe ID.
+Цей проєкт використовує програму [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}, для якої потрібен обліковий запис Adobe ID. Тобі має бути 13 років або більше, щоб створити власний обліковий запис Adobe ID.
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Немає доступу до YouTube? Завантаж відео!
 
-You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/ai-image-go){:target="_blank"}.
+Ти можеш завантажити всі відео для цього проєкту, включно з відео вище, [якщо натиснеш тут](https://rpf.io/p/en/ai-image-go){:target="_blank"}.
 
 \--- /collapse ---
