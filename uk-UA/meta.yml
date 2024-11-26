@@ -1,0 +1,19 @@
+---
+title: Зображення, створені ШІ
+hero_image: images/banner.png
+description: Створи зображення за допомогою генеративного штучного інтелекту в Adobe Firefly
+version: 1
+listed: false
+copyedit: false
+last_tested: "2024-06-27"
+steps:
+  - title: Що ти зробиш
+  - title: Напиши запит
+    completion:
+      - engaged
+  - title: Стилі й ефекти
+    completion:
+      - internal
+  - title: Що ти тепер вмієш?
+    completion:
+      - external
