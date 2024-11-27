@@ -4,7 +4,7 @@
 
 Typ een beschrijving voor een afbeelding en kijk hoe AI jouw creatie tot leven brengt.
 
-This project uses [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}, which requires an Adobe ID. You must be 13 or older to register for an individual Adobe ID.
+Dit project maakt gebruik van [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}, waarvoor een Adobe ID vereist is. You must be 13 or older to register for an individual Adobe ID.
 
 ## --- collapse ---
 
