@@ -1,8 +1,8 @@
-## What you will make
+## Wat ga je maken
 
-![Four different AI generated images of a frog wearing a tuxedo. The background is a pond with lily pads.](images/whatyouwillmake.png)
+![Vier verschillende door AI gegenereerde afbeeldingen van een kikker in een smoking. De achtergrond is een vijver met waterlelies.](images/whatyouwillmake.png)
 
-Type in a description for an image and watch as AI brings your creation to life.
+Typ een beschrijving voor een afbeelding en kijk hoe AI jouw creatie tot leven brengt.
 
 This project uses [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}, which requires an Adobe ID. You must be 13 or older to register for an individual Adobe ID.
 
