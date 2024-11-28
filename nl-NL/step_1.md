@@ -4,12 +4,12 @@
 
 Typ een beschrijving voor een afbeelding en kijk hoe AI jouw creatie tot leven brengt.
 
-Dit project maakt gebruik van [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}, waarvoor een Adobe ID vereist is. You must be 13 or older to register for an individual Adobe ID.
+Dit project maakt gebruik van [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}, waarvoor een Adobe ID vereist is. Je moet 13 jaar of ouder zijn om je te registreren voor een individuele Adobe ID.
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Geen YouTube? Download de video's!
 
-You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/ai-image-go){:target="_blank"}.
+Je kunt alle video's voor dit project downloaden, inclusief de bovenstaande video [door hier te klikken](https://rpf.io/p/en/ai-image-go){:target="_blank"}.
 
 \--- /collapse ---
