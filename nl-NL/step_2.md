@@ -1,4 +1,4 @@
-## Write a prompt
+## Schrijf een prompt
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,44 +6,44 @@
   </div>
 </html>
 
-A **prompt** is a way of describing what you would like from a generative AI model.
+Een **prompt** is een manier om te beschrijven wat je verwacht van een generatief AI-model.
 
 \--- task ---
 
-Go to [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
+Ga naar [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
 
-Click **Sign in** on the top right and sign in with your Adobe ID.
+Klik rechtsboven op **Aanmelden** en meld je aan met je Adobe ID.
 
 \--- /task ---
 
 \--- task ---
 
-In the box, type in a **prompt** that describes the image you want, for example:
+Typ in het vak een **prompt** die de gewenste afbeelding beschrijft, bijvoorbeeld:
 
-`A bright pink flamingo wearing a dress`
-
-\--- /task ---
-
-\--- task ---
-
-Click **Generate** and see what the AI model comes up with!
-
-![An AI-generated image of a bright pink flamingo wearing a dress.](images/flamingo1a.jpg)
+`Een felroze flamingo in een jurk`
 
 \--- /task ---
 
 \--- task ---
 
-Now alter your prompt to make it slightly more specific, for example:
+Klik op **Genereren** en kijk wat het AI-model oplevert!
 
-`A full length shot of a bright pink flamingo wearing a ball gown. The background is a moonlit sky with a lake`
+![Een door AI gegenereerde afbeelding van een felroze flamingo die een jurk draagt.](images/flamingo1a.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-Click **Generate** again and the AI model will generate some new images.
+Pas nu je prompt aan om het iets specifieker te maken, bijvoorbeeld:
 
-![An AI-generated image of a flamingo wearing a ball gown.](images/flamingo2a.jpg)
+\`Een volledige foto van een felroze flamingo in een baljurk. De achtergrond is een nachtelijke hemel met maanlicht en een meer
+
+\--- /task ---
+
+\--- task ---
+
+Klik nogmaals op **Genereren** en het AI-model genereert enkele nieuwe afbeeldingen.
+
+![Een door AI gegenereerde afbeelding van een felroze flamingo die een jurk draagt.](images/flamingo1a.jpg)
 
 \--- /task ---
