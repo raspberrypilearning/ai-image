@@ -1,4 +1,4 @@
-## Styles and effects
+## Stijlen en effecten
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,36 +6,36 @@
   </div>
 </html>
 
-As well as adding more information into your prompt, you can use the settings to give the AI model more information about how you would like your finished image to look.
+Naast het toevoegen van meer informatie aan je prompt, kan je de instellingen gebruiken om het AI-model meer informatie te geven over hoe jij wilt dat de uiteindelijke afbeelding eruitziet.
 
-### Content type
+### Contenttype
 
-Select whether the image style is an artwork or photograph.
+Selecteer of de afbeeldingsstijl kunst of foto is.
 
-![Different content types - art and photo](images/content-type.png)
+![Verschillende contenttypes - kunst en foto](images/content-type.png)
 
-### Styles
+### Stijlen
 
-Select the style of image you want. You can even upload an image and ask the AI model to copy the style.
+Selecteer de gewenste afbeeldingsstijl. Je kunt zelfs een afbeelding uploaden en het AI-model vragen om de stijl te kopiëren.
 
-![A list of different image styles to select from](images/styles.png)
+![Een lijst met verschillende afbeeldingsstijlen om uit te kiezen](images/styles.png)
 
-### Effects
+### Effecten
 
-Select any effects you want to apply to your image. For example, you can make it look like part of a comic book, or like it was drawn with charcoal.
+Selecteer de effecten die je op jouw afbeelding wilt toepassen. Je kunt het er bijvoorbeeld uit laten zien alsof het uit een stripverhaal komt, of alsof het met houtskool is getekend.
 
-![A list of different image effects to select from](images/effects.png)
+![Een lijst met verschillende afbeeldingsstijlen om uit te kiezen](images/effects.png)
 
 \--- task ---
 
-Experiment with different content types, styles, and effects until you are happy with the image that the AI model has generated.
+Experimenteer met verschillende contenttypes, stijlen en effecten totdat je tevreden bent met de afbeelding die het AI-model heeft gegenereerd.
 
 \--- /task ---
 
 \--- task ---
 
-Save your image. Click on it and then click on the **Download** button on the top right.
+Sla je afbeelding op. Klik erop en klik vervolgens op de knop **Downloaden** rechtsboven.
 
-![A stylised image of a flamingo in a ball gown with a yellow arrow to a download button on the top right of the image,](images/final-image.png)
+![Een gestileerde afbeelding van een flamingo in een baljurk met een gele pijl naar een downloadknop rechtsboven de afbeelding,](images/final-image.png)
 
 \--- /task ---
