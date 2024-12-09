@@ -1,22 +1,22 @@
-title: AI-generated images
+title: Images générées par l'IA
 hero_image: images/banner.png
-description: Create images with generative AI using Adobe Firefly
+description: Crée des images avec l'IA générative en utilisant Adobe Firefly
 version: 1
 listed: false
 copyedit: false
 last_tested: "2024-06-27"
 steps:
   - 
-    title: What you will make
+    title: Ce que tu vas faire
   - 
-    title: Write a prompt
+    title: Écrire un prompt
     completion:
       - engaged
   - 
-    title: Styles and effects
+    title: Styles et effets
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Que peux-tu faire maintenant ?
     completion:
       - external
