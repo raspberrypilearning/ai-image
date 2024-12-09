@@ -1,4 +1,4 @@
-## Write a prompt
+## Écrire un prompt
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,44 +6,44 @@
   </div>
 </html>
 
-A **prompt** is a way of describing what you would like from a generative AI model.
+Un **prompt** est une façon de décrire ce que tu aimerais d'un modèle IA génératif.
 
 \--- task ---
 
-Go to [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
+Rends-toi sur [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
 
-Click **Sign in** on the top right and sign in with your Adobe ID.
+Clique sur **Se connecter** en haut à droite et connecte-toi avec ton Adobe ID.
 
 \--- /task ---
 
 \--- task ---
 
-In the box, type in a **prompt** that describes the image you want, for example:
+Dans la case, tape un **prompt** qui décrit l'image que tu souhaites, par exemple :
 
-`A bright pink flamingo wearing a dress`
-
-\--- /task ---
-
-\--- task ---
-
-Click **Generate** and see what the AI model comes up with!
-
-![An AI-generated image of a bright pink flamingo wearing a dress.](images/flamingo1a.jpg)
+`Un flamant rose vif portant une robe`
 
 \--- /task ---
 
 \--- task ---
 
-Now alter your prompt to make it slightly more specific, for example:
+Clique sur **Générer** et vois ce que le modèle IA te propose !
 
-`A full length shot of a bright pink flamingo wearing a ball gown. The background is a moonlit sky with a lake`
+![Une image générée par l'IA d'un flamant rose vif portant une robe.](images/flamingo1a.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-Click **Generate** again and the AI model will generate some new images.
+Maintenant, modifie ton prompt pour la rendre un peu plus spécifique, par exemple :
 
-![An AI-generated image of a flamingo wearing a ball gown.](images/flamingo2a.jpg)
+`Un plan d'ensemble d'un flamant rose vif portant une robe de bal. L'arrière-plan est un ciel au clair de lune avec un lac`
+
+\--- /task ---
+
+\--- task ---
+
+Clique à nouveau sur **Générer** et le modèle IA va générer de nouvelles images.
+
+![Une image générée par l'IA d'un flamant rose portant une robe de bal.](images/flamingo2a.jpg)
 
 \--- /task ---
