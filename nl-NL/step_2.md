@@ -36,7 +36,7 @@ Klik op **Genereren** en kijk wat het AI-model oplevert!
 
 Pas nu je prompt aan om het iets specifieker te maken, bijvoorbeeld:
 
-\`Een volledige foto van een felroze flamingo in een baljurk. De achtergrond is een nachtelijke hemel met maanlicht en een meer
+`Een volledige foto van een felroze flamingo in een baljurk. De achtergrond is een nachtelijke hemel met maanlicht en een meer`
 
 \--- /task ---
 
@@ -44,6 +44,6 @@ Pas nu je prompt aan om het iets specifieker te maken, bijvoorbeeld:
 
 Klik nogmaals op **Genereren** en het AI-model genereert enkele nieuwe afbeeldingen.
 
-![Een door AI gegenereerde afbeelding van een felroze flamingo die een jurk draagt.](images/flamingo1a.jpg)
+![Een door AI gegenereerde afbeelding van een felroze flamingo die een jurk draagt.](images/flamingo2a.jpg)
 
 \--- /task ---
