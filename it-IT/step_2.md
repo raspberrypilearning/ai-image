@@ -1,4 +1,4 @@
-## Write a prompt
+## Scrivi un prompt
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,44 +6,44 @@
   </div>
 </html>
 
-A **prompt** is a way of describing what you would like from a generative AI model.
+Un **prompt** è una descrizione di ciò che vuoi ottenere dal modello di intelligenza artificiale generativa.
 
 \--- task ---
 
-Go to [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
+Vai su [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
 
-Click **Sign in** on the top right and sign in with your Adobe ID.
+Fai clic su **Accedi** in alto a destra e accedi con il tuo ID Adobe.
 
 \--- /task ---
 
 \--- task ---
 
-In the box, type in a **prompt** that describes the image you want, for example:
+Nella casella, digita un **prompt** che descriva l'immagine che desideri, ad esempio:
 
-`A bright pink flamingo wearing a dress`
-
-\--- /task ---
-
-\--- task ---
-
-Click **Generate** and see what the AI model comes up with!
-
-![An AI-generated image of a bright pink flamingo wearing a dress.](images/flamingo1a.jpg)
+`Un fenicottero rosa acceso che indossa un vestito`
 
 \--- /task ---
 
 \--- task ---
 
-Now alter your prompt to make it slightly more specific, for example:
+Fai clic su **Genera** e lasciati sorprendere da ciò che l'intelligenza artificiale può creare!
 
-`A full length shot of a bright pink flamingo wearing a ball gown. The background is a moonlit sky with a lake`
+![Un'immagine generata dall'intelligenza artificiale di un fenicottero rosa acceso che indossa un vestito.](images/flamingo1a.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-Click **Generate** again and the AI model will generate some new images.
+Adesso modifica il tuo prompt per renderlo un po' più specifico, ad esempio:
 
-![An AI-generated image of a flamingo wearing a ball gown.](images/flamingo2a.jpg)
+`Un'inquadratura a figura intera di un fenicottero rosa acceso che indossa un abito da ballo. Lo sfondo è un cielo illuminato dalla luna con un lago`
+
+\--- /task ---
+
+\--- task ---
+
+Clicca di nuovo su **Genera** e l'intelligenza artificiale creerà nuove immagini.
+
+![Un'immagine generata dall'intelligenza artificiale di un fenicottero che indossa un abito da ballo.](images/flamingo2a.jpg)
 
 \--- /task ---
