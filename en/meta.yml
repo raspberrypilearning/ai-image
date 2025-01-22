@@ -2,7 +2,7 @@ title: AI-generated images
 hero_image: images/banner.png
 description: Create images with generative AI using Adobe Firefly
 version: 1
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-06-27"
 steps:
@@ -13,6 +13,6 @@ steps:
   - title: Styles and effects
     completion:
     - internal
+    - external
   - title: What can you do now?
     completion:
-    - external
