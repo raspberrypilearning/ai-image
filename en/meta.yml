@@ -13,6 +13,6 @@ steps:
   - title: Styles and effects
     completion:
     - internal
-    - external
   - title: What can you do now?
-    completion:
+    completion: 
+    - external
