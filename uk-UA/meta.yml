@@ -2,7 +2,7 @@ title: Зображення, створені ШІ
 hero_image: images/banner.png
 description: Створи зображення за допомогою генеративного штучного інтелекту в Adobe Firefly
 version: 1
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-06-27"
 steps:
