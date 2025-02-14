@@ -1,4 +1,4 @@
-## Styles and effects
+## Stile und Effekte
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,36 +6,36 @@
   </div>
 </html>
 
-As well as adding more information into your prompt, you can use the settings to give the AI model more information about how you would like your finished image to look.
+Außer dem Hinzufügen weiterer Information zu deinem Prompt, kannst du außerdem die Einstellungen verwenden, um dem KI-Modell mehr Information darüber zu geben, wie das fertige Bild aussehen soll.
 
-### Content type
+### Inhaltstyp (Content type)
 
-Select whether the image style is an artwork or photograph.
+Wähle aus, ob der Bildstil ein Kunstwerk oder ein Foto ist.
 
-![Different content types - art and photo](images/content-type.png)
+![Verschiedene Inhaltstypen – Kunst und Foto](images/content-type.png)
 
-### Styles
+### Stile
 
-Select the style of image you want. You can even upload an image and ask the AI model to copy the style.
+Wähle den gewünschten Bildstil aus. Du kannst auch ein Bild hochladen und das KI-Modell bitten, den Stil zu kopieren.
 
-![A list of different image styles to select from](images/styles.png)
+![Eine Liste mit verschiedenen Bildstilen zur Auswahl](images/styles.png)
 
-### Effects
+### Effekte
 
 Select any effects you want to apply to your image. For example, you can make it look like part of a comic book, or like it was drawn with charcoal.
 
-![A list of different image effects to select from](images/effects.png)
+![Eine Liste mit verschiedenen Bildeffekten zur Auswahl](images/effects.png)
 
 \--- task ---
 
-Experiment with different content types, styles, and effects until you are happy with the image that the AI model has generated.
+Experimentiere mit verschiedenen Inhaltstypen, Stilen und Effekten, bis du mit dem Bild zufrieden sind, das das KI-Modell erzeugt hat.
 
 \--- /task ---
 
 \--- task ---
 
-Save your image. Click on it and then click on the **Download** button on the top right.
+Speichere dein Bild. Klicke darauf und anschließend oben rechts auf die Schaltfläche **Herunterladen**.
 
-![A stylised image of a flamingo in a ball gown with a yellow arrow to a download button on the top right of the image,](images/final-image.png)
+![Ein stilisiertes Bild eines Flamingos in einem Ballkleid mit einem gelben Pfeil zu einem Download-Button oben rechts im Bild,](images/final-image.png)
 
 \--- /task ---
