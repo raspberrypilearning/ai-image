@@ -1,4 +1,4 @@
-## Write a prompt
+## Schreibe eine Aufforderung (einen Prompt)
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,44 +6,44 @@
   </div>
 </html>
 
-A **prompt** is a way of describing what you would like from a generative AI model.
+Ein **Prompt** (Eingabeaufforderung) ist eine Möglichkeit zu beschreiben, was du von einem generativen KI-Modell möchtest.
 
 \--- task ---
 
-Go to [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
+Gehe zu [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
 
-Click **Sign in** on the top right and sign in with your Adobe ID.
+Klicke oben rechts auf **Anmelden** und melde dich mit deiner Adobe ID an.
 
 \--- /task ---
 
 \--- task ---
 
-In the box, type in a **prompt** that describes the image you want, for example:
+Gebe in das Feld einen **Prompt** (Eingabeaufforderung) ein, das Bild beschreibt, das du willst. Zum Beispiel:
 
-`A bright pink flamingo wearing a dress`
-
-\--- /task ---
-
-\--- task ---
-
-Click **Generate** and see what the AI model comes up with!
-
-![An AI-generated image of a bright pink flamingo wearing a dress.](images/flamingo1a.jpg)
+„Ein leuchtend rosa Flamingo, der ein Kleid trägt“
 
 \--- /task ---
 
 \--- task ---
 
-Now alter your prompt to make it slightly more specific, for example:
+Klicke auf **Generieren** und schaue, was das KI-Modell vorschlägt!
 
-`A full length shot of a bright pink flamingo wearing a ball gown. The background is a moonlit sky with a lake`
+![Ein KI-generiertes Bild eines hellen rosa Flamingos mit Kleid.](images/flamingo1a.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-Click **Generate** again and the AI model will generate some new images.
+Ändere nun den Prompt, um ihn etwas spezifischer zu machen, zum Beispiel:
 
-![An AI-generated image of a flamingo wearing a ball gown.](images/flamingo2a.jpg)
+„Eine Ganzkörperaufnahme eines leuchtend rosa Flamingos in einem Ballkleid. Der Hintergrund ist ein mondbeleuchteter Himmel mit einem See“
+
+\--- /task ---
+
+\--- task ---
+
+Klicke erneut auf **Generieren** und das KI-Modell wird einige neue Bilder generieren.
+
+![Ein KI-generiertes Bild eines Flamingos mit einem Ballkleid.](images/flamingo2a.jpg)
 
 \--- /task ---
