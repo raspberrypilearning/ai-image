@@ -22,5 +22,5 @@ to make it more specific.
 
 6
 00:00:29,240 --> 00:00:39,200
-Then click 'Generate' again to see the results.
+Poi clicca ancora su "Genera" per vedere i risultati.
 
