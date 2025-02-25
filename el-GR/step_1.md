@@ -1,15 +1,15 @@
-## What you will make
+## Τι θα φτιάξεις
 
-![Four different AI generated images of a frog wearing a tuxedo. The background is a pond with lily pads.](images/whatyouwillmake.png)
+![Τέσσερις διαφορετικές εικόνες τεχνητής νοημοσύνης ενός βάτραχου που φοράει ένα σμόκιν. Το φόντο είναι μια λιμνούλα με κρίνους.](images/whatyouwillmake.png)
 
-Type in a description for an image and watch as AI brings your creation to life.
+Πληκτρολόγησε μια περιγραφή για μια εικόνα και παρακολούθησε πώς η τεχνητή νοημοσύνη ζωντανεύει τη δημιουργία σου.
 
-This project uses [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}, which requires an Adobe ID. You must be 13 or older to register for an individual Adobe ID.
+Αυτό το έργο χρησιμοποιεί [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}, το οποίο απαιτεί ένα Adobe ID. Πρέπει να είσαι πάνω από 13 για να εγγραφείς για ένα ατομικό Adobe ID.
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Υπάρχει στο YouTube; Λήψη των βίντεο!
 
-You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/ai-image-go){:target="_blank"}.
+Μπορείς να κατεβάσεις όλα τα βίντεο γι' αυτό το έργο, συμπεριλαμβανομένου του παραπάνω βίντεο [κάνοντας κλικ εδώ](https://rpf.io/p/en/ai-image-go){:target="_blank"}.
 
 \--- /collapse ---
