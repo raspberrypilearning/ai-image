@@ -20,7 +20,7 @@ Klicke oben rechts auf **Anmelden** und melde dich mit deiner Adobe ID an.
 
 Gebe in das Feld einen **Prompt** (Eingabeaufforderung) ein, das Bild beschreibt, das du willst. Zum Beispiel:
 
-„Ein leuchtend rosa Flamingo, der ein Kleid trägt“
+`Ein leuchtend rosa Flamingo, der ein Kleid trägt`
 
 --- /task ---
 
