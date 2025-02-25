@@ -1,0 +1,19 @@
+---
+title: KI-generierte Bilder
+hero_image: images/banner.png
+description: Erstelle Bilder mit generativer KI mit Adobe Firefly
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-27"
+steps:
+  - title: Das wirst du machen
+  - title: Schreibe eine Aufforderung (einen Prompt)
+    completion:
+      - engaged
+  - title: Stile und Effekte
+    completion:
+      - internal
+  - title: Was kannst du jetzt tun?
+    completion:
+      - external
