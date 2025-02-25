@@ -1,15 +1,15 @@
-title: AI-generated images
+title: Εικόνες που δημιουργούνται από AI
 hero_image: images/banner.png
-description: Create images with generative AI using Adobe Firefly
+description: Δημιουργία εικόνων με δημιουργική τεχνητή νοημοσύνη χρησιμοποιώντας το Adobe Firefly
 version: 1
 listed: true
 copyedit: false
 last_tested: "2024-06-27"
 steps:
   - 
-    title: What you will make
+    title: Τι θα φτιάξεις
   - 
-    title: Write a prompt
+    title: Γράψε μια προτροπή
     completion:
       - engaged
   - 
