@@ -22,7 +22,7 @@ Wähle den gewünschten Bildstil aus. Du kannst auch ein Bild hochladen und das 
 
 ### Effekte
 
-Select any effects you want to apply to your image. For example, you can make it look like part of a comic book, or like it was drawn with charcoal.
+Wähle alle Effekte aus, die du auf dein Bild anwenden möchtest. Du kannst es beispielsweise wie einen Teil eines Comicbuchs aussehen lassen, oder so, als wäre es mit Kohle gezeichnet.
 
 ![Eine Liste mit verschiedenen Bildeffekten zur Auswahl](images/effects.png)
 
