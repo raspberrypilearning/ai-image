@@ -36,7 +36,7 @@ Klicke auf **Generieren** und schaue, was das KI-Modell vorschlägt!
 
 Ändere nun den Prompt, um ihn etwas spezifischer zu machen, zum Beispiel:
 
-„Eine Ganzkörperaufnahme eines leuchtend rosa Flamingos in einem Ballkleid. Der Hintergrund ist ein mondbeleuchteter Himmel mit einem See“
+`Eine Ganzkörperaufnahme eines leuchtend rosa Flamingos in einem Ballkleid. Der Hintergrund ist ein mondbeleuchteter Himmel mit einem See`
 
 --- /task ---
 
