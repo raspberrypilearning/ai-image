@@ -1,4 +1,4 @@
-## Styles and effects
+## Estilos y efectos
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,35 +6,35 @@
   </div>
 </html>
 
-As well as adding more information into your prompt, you can use the settings to give the AI model more information about how you would like your finished image to look.
+Además de añadir más información a tu instrucción, puedes usar la configuración para darle a la IA más información acerca de cómo quieres que se vea tu imagen.
 
-### Content type
+### Tipo de contenido
 
-Select whether the image style is an artwork or photograph.
+Selecciona si la imagen es una ilustración o una foto.
 
 ![Different content types - art and photo](images/content-type.png)
 
-### Styles
+### Estilo
 
-Select the style of image you want. You can even upload an image and ask the AI model to copy the style.
+Selecciona el estilo de imagen que quieres. Incluso puedes subir una imagen y pedirle a la IA que copie el estilo.
 
 ![A list of different image styles to select from](images/styles.png)
 
-### Effects
+### Efectos
 
-Select any effects you want to apply to your image. For example, you can make it look like part of a comic book, or like it was drawn with charcoal.
+Selecciona los efectos que quieras aplicar a tu imagen. Por ejemplo, puedes hacer que parezca un cómic, o como si estuviera dibujado con carboncillo.
 
 ![A list of different image effects to select from](images/effects.png)
 
 \--- task ---
 
-Experiment with different content types, styles, and effects until you are happy with the image that the AI model has generated.
+Experimenta con diferentes tipos de contenido, estilos y efectos hasta que estés contento con la imagen que la IA ha generado.
 
 \--- /task ---
 
 \--- task ---
 
-Save your image. Click on it and then click on the **Download** button on the top right.
+Guarda tu imagen. Pincha en ella y luego pincha **Descargar** en la esquina de arriba a la derecha.
 
 ![A stylised image of a flamingo in a ball gown with a yellow arrow to a download button on the top right of the image,](images/final-image.png)
 
