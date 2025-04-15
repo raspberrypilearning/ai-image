@@ -12,19 +12,19 @@ Además de añadir más información a tu instrucción, puedes usar la configura
 
 Selecciona si la imagen es una ilustración o una foto.
 
-![Different content types - art and photo](images/content-type.png)
+![Diferentes tipos de contenido: arte y fotografía](images/content-type.png)
 
-### Estilo
+### Estilos
 
 Selecciona el estilo de imagen que quieres. Incluso puedes subir una imagen y pedirle a la IA que copie el estilo.
 
-![A list of different image styles to select from](images/styles.png)
+![Una lista de diferentes estilos de imagen para seleccionar](images/styles.png)
 
 ### Efectos
 
-Selecciona los efectos que quieras aplicar a tu imagen. Por ejemplo, puedes hacer que parezca un cómic, o como si estuviera dibujado con carboncillo.
+Selecciona los efectos que quieras aplicar a tu imagen. Por ejemplo, puedes hacer que parezca parte de una historieta, o como si estuviera dibujado con carboncillo.
 
-![A list of different image effects to select from](images/effects.png)
+![Una lista de diferentes efectos de imagen para seleccionar](images/effects.png)
 
 \--- task ---
 
@@ -34,8 +34,8 @@ Experimenta con diferentes tipos de contenido, estilos y efectos hasta que esté
 
 \--- task ---
 
-Guarda tu imagen. Pincha en ella y luego pincha **Descargar** en la esquina de arriba a la derecha.
+Guarda tu imagen. Haz clic en ella y luego haz clic en el botón **Descargar** en la esquina de arriba a la derecha.
 
-![A stylised image of a flamingo in a ball gown with a yellow arrow to a download button on the top right of the image,](images/final-image.png)
+![Una imagen estilizada de un flamenco en un vestido de fiesta con una flecha amarilla apuntando al botón de descarga en la parte superior derecha de la imagen,](images/final-image.png)
 
 \--- /task ---
