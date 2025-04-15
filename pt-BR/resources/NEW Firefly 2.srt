@@ -1,25 +1,21 @@
 1
 00:00:03,960 --> 00:00:12,360
-Use the settings panel to specify the style of 
-image, so for example I'm going to select 'Art'.
+Use o painel de configurações para especificar o estilo da imagem, então, por exemplo vou selecionar 'Art'.
 
 2
 00:00:12,360 --> 00:00:15,080
-You can choose an image style 
-you want the model to mimic,  
+Você pode escolher um estilo de imagem
+que você deseja que o modelo imite,
 
 3
 00:00:15,080 --> 00:00:21,040
-or you can even upload your own 
-image for the model to copy.
+Ou você pode até mesmo enviar sua própria imagem para o modelo copiar.
 
 4
 00:00:21,040 --> 00:00:26,120
-Choose an effect too, for example an old 
-photo or possibly an anime illustration.
+Escolha um efeito também, por exemplo, uma foto antiga ou possivelmente uma ilustração de anime.
 
 5
 00:00:26,120 --> 00:00:29,960
-Keep refining your inputs until 
-you get an image you're happy with.
+Continue refinando suas entradas até obter uma imagem com a qual esteja satisfeito.
 
