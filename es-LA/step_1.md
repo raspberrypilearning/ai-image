@@ -1,4 +1,4 @@
-## Lo que podrás hacer
+## Lo que harás
 
 Cuatro imágenes diferentes de una rana vistiendo de esmoquin generadas por IA. El fondo es un estanque con hojas de nenúfar.](images/whatyouwillmake.png)
 
