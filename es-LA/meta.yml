@@ -1,0 +1,19 @@
+---
+title: Imágenes generadas por IA
+hero_image: images/banner.png
+description: Crea imágenes con IA generativa usando Adobe Firefly
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-27"
+steps:
+  - title: Lo que harás
+  - title: Escribe una instrucción
+    completion:
+      - engaged
+  - title: Estilos y efectos
+    completion:
+      - internal
+  - title: '¿Y ahora?'
+    completion:
+      - external

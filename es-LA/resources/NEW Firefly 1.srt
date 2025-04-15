@@ -1,0 +1,26 @@
+1
+00:00:04,520 --> 00:00:10,440
+Ve a firefly.adobe.com y luego a
+iniciar sesión - necesitarás una cuenta.
+
+2
+00:00:10,440 --> 00:00:17,680
+Describe lo que quieres que muestre tu imagen.
+
+3
+00:00:17,680 --> 00:00:21,760
+Haz clic en “Generar” y espera unos instantes.
+
+4
+00:00:21,760 --> 00:00:24,760
+¡Mira lo que creó el modelo!
+
+5
+00:00:24,760 --> 00:00:29,240
+Puedes modificar tu mensaje
+para hacerlo más específico.
+
+6
+00:00:29,240 --> 00:00:39,200
+Luego haz clic de nuevo en 'Generar' para ver los resultados.
+
