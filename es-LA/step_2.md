@@ -12,7 +12,7 @@ Una **instrucción** es una forma de describir lo que quieres obtener de una IA 
 
 Ve a [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
 
-Pincha en **Iniciar sesión** arriba a la derecha e inicia sesión con tu cuenta de Adobe.
+Haz clic en **Iniciar sesión** en la parte superior derecha e inicia sesión con tu ID de Adobe.
 
 \--- /task ---
 
@@ -26,9 +26,9 @@ En el cuadro, escribe una **instrucción** que describa la imagen que quieres, p
 
 \--- task ---
 
-¡Pincha en **Generar** y mira lo que se le ocurre a la IA!
+¡Haz clic en **Generar** y comprueba con qué se presenta el modelo de IA!
 
-![An AI-generated image of a bright pink flamingo wearing a dress.](images/flamingo1a.jpg)
+![Una imagen generada por IA de un flamenco rosa brillante con un vestido.](images/flamingo1a.jpg)
 
 \--- /task ---
 
@@ -42,8 +42,8 @@ Ahora modifica tu instrucción para hacerla algo más específica, por ejemplo:
 
 \--- task ---
 
-Pincha en **Generar** otra vez y la IA generará algunas imágenes nuevas.
+Haz clic en **Generar** otra vez y la IA generará nuevas imágenes.
 
-![An AI-generated image of a flamingo wearing a ball gown.](images/flamingo2a.jpg)
+![Una imagen generada por IA de un flamenco con un vestido de fiesta.](images/flamingo2a.jpg)
 
 \--- /task ---
