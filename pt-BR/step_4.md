@@ -1,3 +1,3 @@
-## What can you do now?
+## O que você pode fazer agora?
 
-There are lots of other machine learning and AI projects in the [artificial intelligence](https://projects.raspberrypi.org/en/pathways/ai-toolkit) toolkit.
+Há muitos outros aprendizados de máquina e IA no conjunto de ferramentas [inteligência artificial](https://projects.raspberrypi.org/en/pathways/ai-toolkit).
