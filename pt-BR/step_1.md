@@ -1,15 +1,15 @@
-## What you will make
+## O que você vai fazer
 
-![Four different AI generated images of a frog wearing a tuxedo. The background is a pond with lily pads.](images/whatyouwillmake.png)
+![Quatro imagens diferentes geradas por IA de um sapo vestindo um terno. O plano de fundo é um lago com nenúfares](images/whatyouwillmake.png)
 
-Type in a description for an image and watch as AI brings your creation to life.
+Digite uma descrição para uma imagem e observe a IA dar vida à sua criação.
 
-This project uses [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}, which requires an Adobe ID. You must be 13 or older to register for an individual Adobe ID.
+Este projeto usa o [Adobe Firefly](https://firefly.adobe.com/){:target=“_blank”}, que requer uma Adobe ID. Você deve ter 13 anos ou mais para se registrar em um ID de Adobe individual.
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## Título: Sem YouTube? Baixe os vídeos!
 
-You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/ai-image-go){:target="_blank"}.
+Você pode baixar todos os vídeos deste projeto, incluindo o vídeo acima [clicando aqui](https://rpf.io/p/en/ai-image-go){:target="_blank"}.
 
 \--- /collapse ---
