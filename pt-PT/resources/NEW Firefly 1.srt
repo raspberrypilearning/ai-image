@@ -1,26 +1,26 @@
 1
 00:00:04,520 --> 00:00:10,440
-Go to firefly.adobe.com and then 
-sign in - you'll need an account.
+Acede a firefly.adobe.com e depois 
+inicia sessão - precisarás de uma conta.
 
 2
 00:00:10,440 --> 00:00:17,680
-Describe what you want your image to show.
+Descreve o que pretendes que a tua imagem mostre.
 
 3
 00:00:17,680 --> 00:00:21,760
-Click 'Generate' and wait a few moments.
+Clica em 'Gerar' e espera alguns instantes.
 
 4
 00:00:21,760 --> 00:00:24,760
-Check out what the model has created!
+Confere o que o modelo criou!
 
 5
 00:00:24,760 --> 00:00:29,240
-You can alter your prompt 
-to make it more specific.
+Podes alterar o teu prompt
+para o tornar mais específico.
 
 6
 00:00:29,240 --> 00:00:39,200
-Then click 'Generate' again to see the results.
+Depois clica em 'Gerar' outra vez para ver os resultados.
 
