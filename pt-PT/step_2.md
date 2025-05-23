@@ -1,4 +1,4 @@
-## Write a prompt
+## Escreve um prompt
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,44 +6,44 @@
   </div>
 </html>
 
-A **prompt** is a way of describing what you would like from a generative AI model.
+Um **prompt** é uma maneira de descrever o que se pretende de um modelo de IA generativo.
 
 \--- task ---
 
-Go to [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
+Acede a [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
 
-Click **Sign in** on the top right and sign in with your Adobe ID.
+Clica em **Entrar** no canto superior direito e inicia sessão com o teu ID Adobe.
 
 \--- /task ---
 
 \--- task ---
 
-In the box, type in a **prompt** that describes the image you want, for example:
+Na caixa, escreve um **prompt** que descreve a imagem pretendida, por exemplo:
 
-`A bright pink flamingo wearing a dress`
-
-\--- /task ---
-
-\--- task ---
-
-Click **Generate** and see what the AI model comes up with!
-
-![An AI-generated image of a bright pink flamingo wearing a dress.](images/flamingo1a.jpg)
+`Um flamingo rosa brilhante a usar um vestido`
 
 \--- /task ---
 
 \--- task ---
 
-Now alter your prompt to make it slightly more specific, for example:
+Clica em **Gerar** e observa o que o modelo de IA produz!
 
-`A full length shot of a bright pink flamingo wearing a ball gown. The background is a moonlit sky with a lake`
+![Uma imagem gerada por IA de um flamingo rosa brilhante a usar um vestido.](images/flamingo1a.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-Click **Generate** again and the AI model will generate some new images.
+Agora altera o teu prompt para o tornar um pouco mais específico, por exemplo:
 
-![An AI-generated image of a flamingo wearing a ball gown.](images/flamingo2a.jpg)
+`Uma fotografia de corpo inteiro de um flamingo rosa brilhante a usar um vestido de baile. O fundo é um céu iluminado pela lua com um lago`
+
+\--- /task ---
+
+\--- task ---
+
+Clica novamente em **Gerar** e o modelo de IA irá gerar novas imagens.
+
+![Uma imagem gerada por IA de um flamingo a usar um vestido de baile.](images/flamingo2a.jpg)
 
 \--- /task ---
