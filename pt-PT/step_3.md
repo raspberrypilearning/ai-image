@@ -1,4 +1,4 @@
-## Styles and effects
+## Estilos e efeitos
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,36 +6,36 @@
   </div>
 </html>
 
-As well as adding more information into your prompt, you can use the settings to give the AI model more information about how you would like your finished image to look.
+Como também adicionar mais informação ao teu prompt, podes usar as definições para fornecer ao modelo de IA mais detalhes sobre como gostarias que ficasse a tua imagem final.
 
-### Content type
+### Tipo de conteúdo
 
-Select whether the image style is an artwork or photograph.
+Escolhe se preferes um estilo de imagem de uma obra de arte ou uma fotografia.
 
-![Different content types - art and photo](images/content-type.png)
+![Tipos diferentes de conteúdos - arte e fotografia](images/content-type.png)
 
-### Styles
+### Estilos
 
-Select the style of image you want. You can even upload an image and ask the AI model to copy the style.
+Escolhe o estilo da imagem que queres. Podes até carregar uma imagem e perguntar ao modelo de IA para copiar o estilo.
 
-![A list of different image styles to select from](images/styles.png)
+![Uma lista de estilos de imagens diferentes para selecionar](images/styles.png)
 
-### Effects
+### Efeitos
 
-Select any effects you want to apply to your image. For example, you can make it look like part of a comic book, or like it was drawn with charcoal.
+Escolhe todos os efeitos que quiseres aplicar na tua imagem. Por exemplo, podes fazer com que pareça parte de um livro de banda desenhada, ou como se tivesse sido desenhado a carvão.
 
-![A list of different image effects to select from](images/effects.png)
+![Uma lista de efeitos de imagem diferentes para escolher](images/effects.png)
 
 \--- task ---
 
-Experiment with different content types, styles, and effects until you are happy with the image that the AI model has generated.
+Experimente diferentes tipos de conteúdo, estilos e efeitos até ficares satisfeito com a imagem gerada pelo modelo de IA.
 
 \--- /task ---
 
 \--- task ---
 
-Save your image. Click on it and then click on the **Download** button on the top right.
+Salva as tuas imagens. Clica nela e depois clica no botão **Descarregar** no canto superior direito.
 
-![A stylised image of a flamingo in a ball gown with a yellow arrow to a download button on the top right of the image,](images/final-image.png)
+![Uma imagem estilizada de um flamingo num vestido de baile com uma seta amarela apontada para um botão de descarregar no canto superior direito da imagem,](images/final-image.png)
 
 \--- /task ---
