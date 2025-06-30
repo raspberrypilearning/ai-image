@@ -14,6 +14,5 @@ steps:
   - title: Стилі й ефекти
     completion:
       - internal
-  - title: Що ти тепер вмієш?
     completion:
       - external

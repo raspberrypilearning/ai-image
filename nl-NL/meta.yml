@@ -14,6 +14,5 @@ steps:
   - title: Stijlen en effecten
     completion:
       - internal
-  - title: Wat kun je nu doen?
     completion:
       - external
