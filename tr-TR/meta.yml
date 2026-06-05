@@ -1,0 +1,22 @@
+title: Yapay zeka tarafından oluşturulan görüntüler
+hero_image: images/banner.png
+description: Adobe Firefly kullanarak üretken yapay zeka ile görüntüler oluşturun
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-27"
+steps:
+  - 
+    title: Ne yapacaksınız
+  - 
+    title: Bir istem yazın
+    completion:
+      - engaged
+  - 
+    title: Stiller ve efektler
+    completion:
+      - internal
+  - 
+    title: Sırada ne var?
+    completion:
+      - external

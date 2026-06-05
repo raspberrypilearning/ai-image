@@ -1,0 +1,22 @@
+1
+00:00:03,960 --> 00:00:12,360
+Ayarlar panelini kullanarak 
+resmin stilini belirleyebilirsiniz; örneğin ben 'Sanat'ı seçeceğim.
+
+2
+00:00:12,360 --> 00:00:15,080
+Modelin taklit etmesini istediğiniz bir resim  stilini seçebilirsiniz,  
+
+3
+00:00:15,080 --> 00:00:21,040
+hatta modelin kopyalaması için kendi 
+resminizi bile yükleyebilirsiniz.
+
+4
+00:00:21,040 --> 00:00:26,120
+Bir efekt de seçin, örneğin eski bir fotoğraf ya  da anime tarzı bir illüstrasyon.
+
+5
+00:00:26,120 --> 00:00:29,960
+Memnun kaldığınız bir resim elde edene  kadar girdilerinizi iyileştirmeye devam edin.
+
