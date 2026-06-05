@@ -1,0 +1,24 @@
+1
+00:00:04,520 --> 00:00:10,440
+Firefly.adobe.com adresine gidin ve ardından oturum açın - bir hesaba ihtiyacınız olacak. .
+
+2
+00:00:10,440 --> 00:00:17,680
+Resminizin neyi göstermesini istediğinizi açıklayın.
+
+3
+00:00:17,680 --> 00:00:21,760
+'Oluştur' düğmesine tıklayın ve birkaç saniye bekleyin.
+
+4
+00:00:21,760 --> 00:00:24,760
+Modelin neler yarattığına bir bakın!
+
+5
+00:00:24,760 --> 00:00:29,240
+İsteminizi daha spesifik hale getirmek için değiştirebilirsiniz. .
+
+6
+00:00:29,240 --> 00:00:39,200
+Ardından sonuçları görmek için tekrar 'Oluştur' düğmesine tıklayın.
+
