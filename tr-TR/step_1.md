@@ -6,11 +6,10 @@ Bir görsel için açıklama yazın ve yapay zekanın eserinizi hayata geçiriş
 
 Bu proje, Adobe ID gerektiren [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} kullanmaktadır. Bireysel bir Adobe ID kaydı yaptırmak için 13 yaşında veya daha büyük olmalısınız.
 
---- collapse ---
----
-title: YouTube hesabınız yok mu? Videoları indirin!
----
+## --- collapse ---
 
-Bu projeye ait tüm videoları, yukarıdaki video da dahil olmak üzere [buraya tıklayarak](https://rpf.io/p/tr-TR/ai-image-go){:target="_blank"} indirebilirsiniz.
+## başlık: YouTube hesabınız yok mu? Videoları indirin!
 
---- /collapse ---
+Bu projeye ait tüm videoları, yukarıdaki video da dahil olmak üzere [buraya tıklayarak](https://rpf.io/p/en/ai-image-go){:target="_blank"} indirebilirsiniz.
+
+\--- /collapse ---
