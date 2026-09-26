@@ -6,11 +6,10 @@ Gebe eine Beschreibung für ein Bild ein und schaue zu, wie die KI deine Kreatio
 
 Dieses Projekt verwendet [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}, wofür eine Adobe-ID erforderlich ist. Du musst mindestens 13 Jahre alt sein, um dich für eine eigene Adobe ID zu registrieren.
 
---- collapse ---
----
-title: Kein YouTube? Video downloaden!
----
+## --- collapse ---
 
-Du kannst alle Videos für dieses Projekt herunterladen, einschließlich des obigen Videos [indem du hier klickst](https://rpf.io/p/de-DE/ai-image-go){:target="_blank"}.
+## title: Kein YouTube? Video downloaden!
 
---- /collapse ---
+Du kannst alle Videos für dieses Projekt herunterladen, einschließlich des obigen Videos [indem du hier klickst](https://rpf.io/p/en/ai-image-go){:target="_blank"}.
+
+\--- /collapse ---
