@@ -1,0 +1,22 @@
+title: AI生成画像
+hero_image: images/banner.png
+description: Adobe Fireflyを使って生成AIで画像を作成する
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-27"
+steps:
+  - 
+    title: 作るもの
+  - 
+    title: プロンプトを書く
+    completion:
+      - engaged
+  - 
+    title: スタイルと効果
+    completion:
+      - internal
+  - 
+    title: 次は何をしましょうか？
+    completion:
+      - external
