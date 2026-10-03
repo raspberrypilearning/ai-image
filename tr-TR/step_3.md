@@ -26,16 +26,16 @@ Resminize uygulamak istediğiniz efektleri seçin. Örneğin, onu bir çizgi rom
 
 ![Seçilebilecek farklı görsel stillerinin listesi](images/effects.png)
 
---- task ---
+\--- task ---
 
 Yapay zekâ modelinin oluşturduğu görüntüden memnun kalana kadar farklı içerik türleri, stiller ve efektlerle denemeler yapın.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Resminizi kaydedin. Üzerine tıklayın ve ardından sağ üst köşedeki **İndir** düğmesine tıklayın.
 
 ![Görselin sağ üst köşesinde indirme düğmesine yönlendiren sarı bir ok bulunan, balo elbisesi giymiş stilize bir flamingo resmi,](images/final-image.png)
 
---- /task ---
+\--- /task ---

@@ -1,4 +1,3 @@
----
 title: Immagini generate dall'intelligenza artificiale
 hero_image: images/banner.png
 description: Crea immagini con l'intelligenza artificiale generativa utilizzando Adobe Firefly
@@ -7,12 +6,17 @@ listed: true
 copyedit: false
 last_tested: "2024-06-27"
 steps:
-  - title: Cosa creerai
-  - title: Scrivi un prompt
+  - 
+    title: Cosa creerai
+  - 
+    title: Scrivi un prompt
     completion:
       - engaged
-  - title: Stili ed effetti
+  - 
+    title: Stili ed effetti
     completion:
       - internal
+  - 
+    title: Cosa puoi fare adesso?
     completion:
       - external

@@ -1,0 +1,20 @@
+1
+00:00:03,960 --> 00:00:12,360
+Utilise le panneau des paramètres pour choisir le style de l'image, par exemple, je vais sélectionner « Art ».
+
+2
+00:00:12,360 --> 00:00:15,080
+Tu peux choisir un style que tu veux que le modèle imite,
+
+3
+00:00:15,080 --> 00:00:21,040
+ou même charger ta propre image pour qu'il la copie.
+
+4
+00:00:21,040 --> 00:00:26,120
+Choisis aussi un effet, genre une vieille photo ou même une illustration d'anime si ça te tente.
+
+5
+00:00:26,120 --> 00:00:29,960
+Continue à ajuster jusqu'à ce que l'image te convienne !
+
