@@ -26,16 +26,16 @@ Selecteer de effecten die je op jouw afbeelding wilt toepassen. Je kunt het er b
 
 ![Een lijst met verschillende afbeeldingsstijlen om uit te kiezen](images/effects.png)
 
---- task ---
+\--- task ---
 
 Experimenteer met verschillende contenttypes, stijlen en effecten totdat je tevreden bent met de afbeelding die het AI-model heeft gegenereerd.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Sla je afbeelding op. Klik erop en klik vervolgens op de knop **Downloaden** rechtsboven.
 
 ![Een gestileerde afbeelding van een flamingo in een baljurk met een gele pijl naar een downloadknop rechtsboven de afbeelding,](images/final-image.png)
 
---- /task ---
+\--- /task ---
