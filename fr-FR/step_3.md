@@ -26,16 +26,16 @@ Sélectionne les effets que tu souhaites appliquer à ton image. Par exemple, tu
 
 ![Une liste de différents effets d'image à sélectionner](images/effects.png)
 
---- task ---
+\--- task ---
 
 Expérimente différents types de contenu, de styles et d'effets jusqu'à ce que tu sois satisfait de l'image générée par le modèle IA.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Enregistre tes images. Clique dessus puis clique sur le bouton **Télécharger** en haut à droite.
 
 ![Image stylisée d'un flamant rose en robe de bal avec une flèche jaune vers un bouton de téléchargement en haut à droite de l'image.](images/final-image.png)
 
---- /task ---
+\--- /task ---
