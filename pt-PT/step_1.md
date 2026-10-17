@@ -6,11 +6,10 @@ Escreve uma descrição de uma imagem e observa como a IA dá vida à tua criaç
 
 Este projeto usa [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}, que requer um ID do Adobe. Deves ter 13 anos ou mais para registar um ID Adobe individual.
 
---- collapse ---
----
-title: Não tens Youtube? Descarrega estes vídeos!
----
+## --- collapse ---
 
-Podes descarregar todos os vídeos deste projeto, incluindo o vídeo acima [ao clicar aqui](https://rpf.io/p/pt-PT/ai-image-go){:target="_blank"}.
+## title: Não tens Youtube? Descarrega estes vídeos!
 
---- /collapse ---
+Podes descarregar todos os vídeos deste projeto, incluindo o vídeo acima [ao clicar aqui](https://rpf.io/p/en/ai-image-go){:target="_blank"}.
+
+\--- /collapse ---
