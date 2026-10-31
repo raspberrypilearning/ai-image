@@ -8,42 +8,42 @@
 
 Un **prompt** è una descrizione di ciò che vuoi ottenere dal modello di intelligenza artificiale generativa.
 
---- task ---
+\--- task ---
 
 Vai su [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
 
 Fai clic su **Accedi** in alto a destra e accedi con il tuo ID Adobe.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Nella casella, digita un **prompt** che descriva l'immagine che desideri, ad esempio:
 
 `Un fenicottero rosa acceso che indossa un vestito`
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Fai clic su **Genera** e lasciati sorprendere da ciò che l'intelligenza artificiale può creare!
 
 ![Un'immagine generata dall'intelligenza artificiale di un fenicottero rosa acceso che indossa un vestito.](images/flamingo1a.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Adesso modifica il tuo prompt per renderlo un po' più specifico, ad esempio:
 
 `Un'inquadratura a figura intera di un fenicottero rosa acceso che indossa un abito da ballo. Lo sfondo è un cielo illuminato dalla luna con un lago`
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Clicca di nuovo su **Genera** e l'intelligenza artificiale creerà nuove immagini.
 
 ![Un'immagine generata dall'intelligenza artificiale di un fenicottero che indossa un abito da ballo.](images/flamingo2a.jpg)
 
---- /task ---
+\--- /task ---
