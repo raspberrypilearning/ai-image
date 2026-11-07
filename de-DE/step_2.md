@@ -8,42 +8,42 @@
 
 Ein **Prompt** (Eingabeaufforderung) ist eine Möglichkeit zu beschreiben, was du von einem generativen KI-Modell möchtest.
 
---- task ---
+\--- task ---
 
 Gehe zu [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
 
 Klicke oben rechts auf **Anmelden** und melde dich mit deiner Adobe ID an.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Gebe in das Feld einen **Prompt** (Eingabeaufforderung) ein, das Bild beschreibt, das du willst. Zum Beispiel:
 
-`Ein leuchtend rosa Flamingo, der ein Kleid trägt`
+„Ein leuchtend rosa Flamingo, der ein Kleid trägt“
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Klicke auf **Generieren** und schaue, was das KI-Modell vorschlägt!
 
 ![Ein KI-generiertes Bild eines hellen rosa Flamingos mit Kleid.](images/flamingo1a.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Ändere nun den Prompt, um ihn etwas spezifischer zu machen, zum Beispiel:
 
-`Eine Ganzkörperaufnahme eines leuchtend rosa Flamingos in einem Ballkleid. Der Hintergrund ist ein mondbeleuchteter Himmel mit einem See`
+„Eine Ganzkörperaufnahme eines leuchtend rosa Flamingos in einem Ballkleid. Der Hintergrund ist ein mondbeleuchteter Himmel mit einem See“
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Klicke erneut auf **Generieren** und das KI-Modell wird einige neue Bilder generieren.
 
 ![Ein KI-generiertes Bild eines Flamingos mit einem Ballkleid.](images/flamingo2a.jpg)
 
---- /task ---
+\--- /task ---
