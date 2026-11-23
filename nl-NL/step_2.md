@@ -8,42 +8,42 @@
 
 Een **prompt** is een manier om te beschrijven wat je verwacht van een generatief AI-model.
 
---- task ---
+\--- task ---
 
 Ga naar [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}.
 
 Klik rechtsboven op **Aanmelden** en meld je aan met je Adobe ID.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Typ in het vak een **prompt** die de gewenste afbeelding beschrijft, bijvoorbeeld:
 
 `Een felroze flamingo in een jurk`
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Klik op **Genereren** en kijk wat het AI-model oplevert!
 
 ![Een door AI gegenereerde afbeelding van een felroze flamingo die een jurk draagt.](images/flamingo1a.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Pas nu je prompt aan om het iets specifieker te maken, bijvoorbeeld:
 
 `Een volledige foto van een felroze flamingo in een baljurk. De achtergrond is een nachtelijke hemel met maanlicht en een meer`
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Klik nogmaals op **Genereren** en het AI-model genereert enkele nieuwe afbeeldingen.
 
 ![Een door AI gegenereerde afbeelding van een felroze flamingo die een jurk draagt.](images/flamingo2a.jpg)
 
---- /task ---
+\--- /task ---
